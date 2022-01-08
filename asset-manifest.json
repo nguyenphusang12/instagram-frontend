@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0e95e9f.chunk.css",
+    "main.js": "/static/js/main.68e499a2.chunk.js",
+    "main.js.map": "/static/js/main.68e499a2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.de17e078.js",
+    "runtime-main.js.map": "/static/js/runtime-main.de17e078.js.map",
+    "static/js/2.afbf7930.chunk.js": "/static/js/2.afbf7930.chunk.js",
+    "static/js/2.afbf7930.chunk.js.map": "/static/js/2.afbf7930.chunk.js.map",
+    "static/js/3.7b946cb6.chunk.js": "/static/js/3.7b946cb6.chunk.js",
+    "static/js/3.7b946cb6.chunk.js.map": "/static/js/3.7b946cb6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a0e95e9f.chunk.css.map": "/static/css/main.a0e95e9f.chunk.css.map",
+    "static/js/2.afbf7930.chunk.js.LICENSE.txt": "/static/js/2.afbf7930.chunk.js.LICENSE.txt",
+    "static/media/auth.css": "/static/media/735145cfe0add4.3686ea84.png",
+    "static/media/842fe5699220.21a5f717.jpg": "/static/media/842fe5699220.21a5f717.jpg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/inbox.css": "/static/media/icon(2).0bf75db2.png",
+    "static/media/authForm.css": "/static/media/icon-logo.077eb7ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de17e078.js",
+    "static/js/2.afbf7930.chunk.js",
+    "static/css/main.a0e95e9f.chunk.css",
+    "static/js/main.68e499a2.chunk.js"
+  ]
+}
